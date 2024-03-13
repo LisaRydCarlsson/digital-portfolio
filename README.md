@@ -27,5 +27,6 @@ The purpose of the course is for the student to apply, deepen, and combine acqui
 - To review and critique another student's thesis work
 
 **Assessment Forms**
+
 Group projects or individual projects.
 
