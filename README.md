@@ -8,7 +8,9 @@ The purpose of the course is for the student to apply, deepen, and combine acqui
 - Industry requirements
 - Projects from concept to delivery
 
-##Knowledge Requirements
+
+## Knowledge Requirements
+
 **Knowledge**
 1. About agile working methods
 2. About project and code management with Git
